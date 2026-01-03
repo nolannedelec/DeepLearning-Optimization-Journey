@@ -17,7 +17,7 @@ Plutôt que de viser 95% de précision immédiatement, j'ai choisi de partir d'u
 ## Résultats obtenus
 Le passage d'un modèle simple à un modèle stabilisé par **Batch Normalization** a permis de passer d'environ **55%** à plus de **76%** de précision moyenne sur le set de test, avec des percées significatives sur des classes complexes comme le "Chat" ou l'"Oiseau".
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 * Python
 * PyTorch / Torchvision
 * Matplotlib / Seaborn (Visualisation des pertes et matrices de confusion)
